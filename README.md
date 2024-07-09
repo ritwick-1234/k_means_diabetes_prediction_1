@@ -1,5 +1,5 @@
 Here i have used k_means algorithm to predict diabetes tuning hyperparemeters of k_means
-
+here is the link of streamlit share -https://kmeansdiabetesprediction1-hplt2kwt2fk7ujwnfn35hn.streamlit.app/
 
 
 
